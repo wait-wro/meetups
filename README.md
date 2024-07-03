@@ -1,5 +1,5 @@
 # MEETUPS
-### Repozytorium Wrocław AI Team z archwium meetupów organizowanych przez WAIT
+### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
 
