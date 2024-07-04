@@ -1,3 +1,9 @@
+
+<br>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wait-wro.meetups" />
+<br>
+
 # MEETUPS
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
