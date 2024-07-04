@@ -1,7 +1,7 @@
 
 <br>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wait-wro.meetups" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wait-wro.meetups"/>
 <br>
 
 # MEETUPS

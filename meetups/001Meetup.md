@@ -42,3 +42,9 @@ Na meetupie, dowiesz się jak możesz wykorzystać AI, LLMy i wektorowe bazy dan
 🔗 [multimodal text image search](https://github.com/weaviate/weaviate-examples/tree/main/clip-multi-modal-text-image-search)
 
 🔗 [face recognition app](https://github.com/weaviate/weaviate-examples/tree/main/face-recognition-app)
+
+### **Dodatkowe materiały:**
+
+🔗 [Free course: Vector Databases: from Embeddings to Applications [Weaviate/Deeplearning.ai]](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+
+🔗 [Free course: Building Multimodal Search and RAG [Waviate/Deeplearning.ai]](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
