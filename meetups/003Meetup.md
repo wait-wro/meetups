@@ -3,8 +3,8 @@
 
 ## Po raz pierwszy na meetupie rozmawialiśmy na dwa tematy:
 
-## 1. Funkcja celu kontra biznes - Tomasz Melcer
-## 2. Między matematyką a komputerami, teoria zderza się z praktyką - Michał Gołębiewicz
+### 1. Funkcja celu kontra biznes - Tomasz Melcer
+### 2. Między matematyką a komputerami, teoria zderza się z praktyką - Michał Gołębiewicz
 
 ### 🎤 **Prelegenci: Tomasz Melcer oraz Michał Gołębiewicz**
 
