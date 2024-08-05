@@ -2,7 +2,8 @@
 # 🗓️ 2024/07/30 | WAIT AI MEETUP #3
 
 ## Po raz pierwszy na meetupie rozmawialiśmy na dwa tematy:
-##
+
+
 ### 1. Funkcja celu kontra biznes - Tomasz Melcer
 ### 2. Między matematyką a komputerami, teoria zderza się z praktyką - Michał Gołębiewicz
 
