@@ -28,13 +28,6 @@ Jego doświadczenie w realizacji projektów dla czołowych firm sektora finansow
 
 Zapraszamy Was na wieczór z generatywną sztuczną inteligencją, który odbędzie się w środę 24.08.2024, ale tym razem w innym miejscu - siedzibie firmy **Tooploox**. W programie dwa fascynujące wystąpienia. Pierwsze poprowadzi **Łukasz Biegaj**, który opowie o „Function Calling w modelach językowych”, a następnie **Maciej Zięba** przybliży aktualne wyzwania związane z zastosowaniem generatywnej AI dla danych wizyjnych. Po prelekcjach przewidziany jest czas na networking. Wydarzenie to doskonała okazja do poszerzenia wiedzy o AI oraz nawiązania nowych kontaktów w branży.
 
-### **Agenda:**
-18:15 - 18:30 - Powitanie i ogłoszenia
-18:30 - 19:15 - Łukasz Biegaj: „Function Calling w modelach językowych”
-19:15 - 19:30 - przerwa
-19:30 - 20:15 - Maciej Zięba „Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych”.
-20:15 - 21:00 - networking
-
 ##
 ### 📷 **[Zdjęcia z meetupu](https://photos.google.com/share/AF1QipNge_5iaXS2BvQ1hyg0rZ_RdgczZVyI3MMK2oaKGfXG5OD43NcMF5Gv9egzZKN3IQ?key=Z01lS2RWMjA5NC1JRzZxNnZ4LWtFQkVQdjktbmxR)**
 ##
