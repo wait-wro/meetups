@@ -8,6 +8,8 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+### 🗓️  2024/08/24 | [MEETUP #5 1.Function Calling w modelach językowych, 2.Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych]()
+
 ### 🗓️  2024/07/30 | [MEETUP #4 Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?](https://github.com/wait-wro/meetups/blob/004Meetup/meetups/004Meetup.md)
 
 ### 🗓️  2024/07/30 | [MEETUP #3 Funkcja celu kontra biznes - Tomasz Melcer, Między matematyką a komputerami, teoria zderza się z praktyką - Michał Gołębiewicz](https://github.com/wait-wro/meetups/blob/003Meetup/meetups/003Meetup.md)

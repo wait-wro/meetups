@@ -17,9 +17,3 @@ Autorzy prelekcji - **dr Wojciech Kaczan**, specjalizujący się w poszukiwaniu 
 ##
 ### 📷 **[Zdjęcia z meetupu](https://photos.google.com/share/AF1QipPI4MXEiT3RoYtrD7lmqemtqo7c_L-CRTbfj_GU_SddfzKePe4jxXXsgonWPeg0Rg?key=VTg4QTBESjBjVnU5SjZCdHJ1R1Y3VnI5Zk85T0dn)**
 ##
-
-### **Dodatkowe materiały:**
-
-🔗 [Neuro Hack](https://same-neuroid.eu/neurohack/)
-
-🔗 [Studia Podyplomowe: Startup Excellence](https://inqube.pl/startupexcellence/)
