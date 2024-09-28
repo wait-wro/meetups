@@ -35,3 +35,4 @@ Zapraszamy Was na wieczór z generatywną sztuczną inteligencją, który odbęd
 ### **Dodatkowe materiały:**
 
 🔗 [Tooploox](https://www.linkedin.com/company/tooploox/)
+🔗 [AEC Hackathon](https://hack.creoox.com)
