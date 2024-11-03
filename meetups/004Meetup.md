@@ -1,5 +1,5 @@
 
-# 🗓️ 2024/07/27 | WAIT AI MEETUP #4
+# 🗓️ 2024/08/27 | WAIT AI MEETUP #4
 
 ## Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?
 
