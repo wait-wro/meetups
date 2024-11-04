@@ -8,9 +8,11 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
-### 🗓️  2024/08/24 | [MEETUP #5 1.Function Calling w modelach językowych, 2.Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych](https://github.com/wait-wro/meetups/blob/005Meetup/meetups/005Meetup.md)
+### 🗓️  2024/10/26 | [MEETUP #6 1. „Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce", 2. “Zaczyna się od myśli… - pasywne interfejsy mózg komputer”](https://github.com/wait-wro/meetups/blob/006Meetup/meetups/006Meetup.md)
 
-### 🗓️  2024/07/30 | [MEETUP #4 Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?](https://github.com/wait-wro/meetups/blob/004Meetup/meetups/004Meetup.md)
+### 🗓️  2024/09/24 | [MEETUP #5 1.Function Calling w modelach językowych, 2.Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych](https://github.com/wait-wro/meetups/blob/005Meetup/meetups/005Meetup.md)
+
+### 🗓️  2024/08/27 | [MEETUP #4 Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?](https://github.com/wait-wro/meetups/blob/004Meetup/meetups/004Meetup.md)
 
 ### 🗓️  2024/07/30 | [MEETUP #3 Funkcja celu kontra biznes - Tomasz Melcer, Między matematyką a komputerami, teoria zderza się z praktyką - Michał Gołębiewicz](https://github.com/wait-wro/meetups/blob/003Meetup/meetups/003Meetup.md)
 
