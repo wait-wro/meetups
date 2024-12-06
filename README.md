@@ -8,7 +8,7 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
-### 🗓️  2024/11/26 | [MEETUP #7 1. “Dlaczego hakerzy kochają Twoją aplikację AI?”, 2. “Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości.”](https://github.com/wait-wro/meetups/blob/007Meetup/meetups/007Meetup.md)
+### 🗓️  2024/11/26 | [MEETUP #7 1. “Dlaczego hakerzy kochają Twoją aplikację AI?”, 2. “Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości.”](https://github.com/wait-wro/meetups/blob/main/meetups/007Meetup.md)
 
 ### 🗓️  2024/10/26 | [MEETUP #6 1. „Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce", 2. “Zaczyna się od myśli… - pasywne interfejsy mózg komputer”](https://github.com/wait-wro/meetups/blob/006Meetup/meetups/006Meetup.md)
 
