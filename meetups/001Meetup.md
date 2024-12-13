@@ -6,7 +6,7 @@
 
 ### 🎤 **Prelegent: [Marcin Antas](https://www.linkedin.com/in/antasmarcin/)**
 
-Marcin Antas jest inżynierem w Weaviate. Jest pragmatycznym programistą o silnym zamiłowaniu do algorytmów AI i ML. Chętnie pogłębia swoją wiedzę i dzieli się nią z innymi. Kiedy nie pochłania go świat technologii, Marcin poświęca czas treningom do zawodów Iron Man na Hawajach, mając na celu zakwalifikowanie się do tego prestiżowego wydarzenia
+Marcin Antas jest inżynierem w Weaviate. Jest pragmatycznym programistą o silnym zamiłowaniu do algorytmów AI i ML. Chętnie pogłębia swoją wiedzę i dzieli się nią z innymi. Kiedy nie pochłania go świat technologii, Marcin poświęca czas treningom do zawodów Iron Man na Hawajach, mając na celu zakwalifikowanie się do tego prestiżowego wydarzenia.
 ##
 ### **Opis wydarzenia:**
 
