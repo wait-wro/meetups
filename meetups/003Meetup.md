@@ -1,6 +1,6 @@
 # 🗓️ 2024/07/30 | WAIT AI MEETUP #3
 
-## Tematy: Funkcja celu kontra biznes & Między matematyką a komputerami
+## Funkcja celu kontra biznes & Między matematyką a komputerami
 
 ## Spis treści
 - [Prelegenci](#prelegenci)
@@ -32,10 +32,8 @@ Data Scientist wymaga umiejętności pracy z różnymi zespołami. Jedne są bar
 
 ## 🗂️ Agenda
 
-| **#** | **Temat**                                      |
-|-------|-----------------------------------------------|
-| 1     | "Funkcja celu kontra biznes" (prezentacja Tomasza Melcera)                 |
-| 2     | "Między matematyką a komputerami: teoria zderza się z praktyką" (prezentacja Michała Gołębiewicza)|
+- "Funkcja celu kontra biznes" - Tomasz Melcer
+- "Między matematyką a komputerami: teoria zderza się z praktyką" - Michała Gołębiewicz
 
 ---
 

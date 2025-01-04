@@ -1,8 +1,11 @@
 # 🗓️ 2024/10/29 | WAIT AI MEETUP #6
 
+## Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce & Zaczyna się od myśli… - pasywne interfejsy mózg komputer
+
 ## Spis treści
 - [Prelegenci](#prelegenci)
 - [Opis wydarzenia](#opis-wydarzenia)
+- [Agenda](#agenda)
 - [Zdjęcia z meetupu](#zdjęcia-z-meetupu)
 - [Materiały z meetupu](#materiały-z-meetupu)
 - [Dodatkowe materiały](#dodatkowe-materiały)
@@ -34,10 +37,11 @@ O wdrażaniu machine learningu w bioinformatyce opowie **Wiktoria Wilman**, a sw
 
 ## 🗂️ Agenda
 
-| **#** | **Temat**                                      |
-|-------|-----------------------------------------------|
-| 1     | „Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce" (prezentacja Wiktorii Wilman)                 |
-| 2     | “Zaczyna się od myśli… - pasywne interfejsy mózg komputer” (prezentacja Pawła Dzikiewicza)|
+- 18:30 - 18:45 - Powitanie i ogłoszenia
+- 18:45 - 19:15 - Wiktoria Wilman: „Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce"
+- 19:15 - 19:45 - Przerwa
+- 19:45 - 20:15 - Paweł Dzikiewicz - “Zaczyna się od myśli… - pasywne interfejsy mózg komputer”
+- 20:15 - 21:00 - Networking
 
 ---
 

@@ -1,8 +1,11 @@
 # 🗓️ 2024/09/24 | WAIT AI MEETUP #5
 
+## Function Calling w modelach językowych & Aktualne wyzwania związane z zastosowaniem generatywne sztucznej inteligencji dla danych wizyjnych
+
 ## Spis treści
 - [Prelegenci](#prelegenci)
 - [Opis wydarzenia](#opis-wydarzenia)
+- [Agenda](#agenda)
 - [Zdjęcia z meetupu](#zdjęcia-z-meetupu)
 - [Dodatkowe materiały](#dodatkowe-materiały)
 
@@ -26,18 +29,19 @@ Certyfikowany na profesjonalnych ścieżkach AWS (CAA, CSA, Database Specialty),
 
 Zapraszamy Was na wieczór z generatywną sztuczną inteligencją, który odbędzie się we wtorek, 24.09.2024, w nowej lokalizacji – siedzibie firmy **Tooploox**. W programie dwa fascynujące wystąpienia.  
 
-Pierwsze poprowadzi **Łukasz Biegaj**, który przybliży temat „Function Calling w modelach językowych”, natomiast **Maciej Zięba** omówi "Aktualne wyzwania związane z zastosowaniem generatywnej AI dla danych wizyjnych".  
+Pierwsze poprowadzi **Łukasz Biegaj**, który przybliży temat „Function Calling w modelach językowych”, natomiast **Maciej Zięba** omówi "Aktualne wyzwania związane z zastosowaniem generatywnej AI dla danych wizyjnych".
 
 Po prelekcjach przewidziany jest czas na networking – doskonała okazja do wymiany doświadczeń oraz nawiązania nowych kontaktów w branży. Nie przegap tej okazji, aby poszerzyć swoją wiedzę o najnowszych zastosowaniach AI!
 
 ---
 
-## 🗂️ Agenda
+## 🗂️ Agenda  
 
-| **#** | **Temat**                                      |
-|-------|-----------------------------------------------|
-| 1     | „Function Calling w modelach językowych” (prezentacja Łukasza Biegaja)                 |
-| 2     | „Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych” (prezentacja Macieja Zięby)|
+- 18:15 - 18:30 - Powitanie i ogłoszenia
+- 18:30 - 19:15 - Łukasz Biegaj: „Function Calling w modelach językowych”
+- 19:15 - 19:30 - Przerwa
+- 19:30 - 20:15 - Maciej Zięba „Aktualne wyzwania związane z zastosowaniem generatywne sztucznej inteligencji dla danych wizyjnych”.
+- 20:15 - 21:00 - Networking
 
 ---
 

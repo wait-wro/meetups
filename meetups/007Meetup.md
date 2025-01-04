@@ -1,8 +1,11 @@
 # 🗓️ 2024/11/26 | WAIT AI MEETUP #7
 
+## Dlaczego hakerzy kochają Twoją aplikację AI? & Czy ktoś może wziąć na mnie pożyczkę? Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości.
+
 ## Spis treści
 - [Prelegenci](#prelegenci)
 - [Opis wydarzenia](#opis-wydarzenia)
+- [Agenda](#agenda)
 - [Zdjęcia z meetupu](#zdjęcia-z-meetupu)
 - [Materiały z meetupu](#materiały-z-meetupu)
 - [Dodatkowe materiały](#dodatkowe-materiały)
@@ -41,10 +44,10 @@ O zagrożeniach związanych z aplikacjami AI opowie **Piotr Śliwa**, natomiast 
 
 ## 🗂️ Agenda
 
-| **#** | **Temat**                                      |
-|-------|-----------------------------------------------|
-| 1     | “Dlaczego hakerzy kochają Twoją aplikację AI?” (prezentacja Piotra Śliwy)                 |
-| 2     | “Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości.” (prezentacja Aleksandry Nowak i Anny Krasoń)|
+- Powitanie i ogłoszenia
+- Piotr Śliwa - "Dlaczego hakerzy kochają Twoją aplikację AI?"
+- Przerwa networkingowa
+- Aleksandra Nowak i Anna Krasoń (Identt) - "Czy ktoś może wziąć na mnie pożyczkę? Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości"
 
 ---
 

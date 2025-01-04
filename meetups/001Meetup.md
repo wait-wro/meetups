@@ -31,18 +31,16 @@ Na meetupie dowiesz się, jak możesz wykorzystać AI, LLMy i wektorowe bazy dan
 
 ## 🗂️ Agenda
 
-| **#** | **Temat**                                     |
-|-------|-----------------------------------------------|
-| 1     | Czym jest Transformer?                        |
-| 2     | Open-source vs closed LLMs                    |
-| 3     | Modele multimodalne                           |
-| 4     | Wektorowe reprezentacje danych                |
-| 5     | Wektorowe bazy danych - Jak to działa?        |
-| 6     | Demo:                                         |
-|       | - Jak uruchomić własny lokalny "ChatGPT"      |
-|       | - Jak używać lokalnego LLM-u ze swoimi danymi (przykład prostego RAG) |
-|       | - Jak używać multimodalne modele ze swoimi danymi |
-|       | - Aplikacja rozpoznawania twarzy              |
+- Czym jest Transformer?  
+- Open-source vs closed LLMs  
+- Modele multimodalne  
+- Wektorowe reprezentacje danych  
+- Wektorowe bazy danych - Jak to działa?  
+- Demo:  
+  • Jak uruchomić własny lokalny "ChatGPT"  
+  • Jak używać lokalnego LLM-u ze swoimi danymi (przykład prostego RAG)  
+  • Jak używać multimodalne modele ze swoimi danymi  
+  • Aplikacja rozpoznawania twarzy  
 
 ---
 

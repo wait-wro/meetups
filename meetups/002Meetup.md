@@ -25,17 +25,15 @@ LLMy, czy też wielkie modele językowe, brzmią wciąż nieco jak plan lądowan
 
 ## 🗂️ Agenda
 
-| **#** | **Temat**                                              |
-|-------|------------------------------------------------------|
-| 1     | Co to Spichlerz i czym się różni od SpeakLeash?       |
-| 2     | Mariaż danych i GPU - współpraca z Cyfronetem         |
-| 3     | Czym jest Bielik i jak powstał?                      |
-| 4     | Proces tworzenia dużego modelu językowego            |
-|       | (ze szczegółowym omówieniem wszystkich kroków)       |
-| 5     | Hands-on - demo narzędzi Spichlerza:                 |
-|       | - [Chat Arena](https://arena.speakleash.org.pl/)     |
-|       | - [Bielik na HF](https://huggingface.co/speakleash)  |
-| 6     | Podsumowanie oraz sesja Q&A                          |
+- Co to Spichlerz i czym się różni od SpeakLeash?  
+- Mariaż danych i GPU - współpraca z Cyfronetem  
+- Czym jest Bielik i jak powstał?  
+- Proces tworzenia dużego modelu językowego:  
+  • szczegółowe omówienie wszystkich kroków  
+- Hands-on - demo narzędzi Spichlerza:  
+  • [Chat Arena](https://arena.speakleash.org.pl/)  
+  • [Bielik na HF](https://huggingface.co/speakleash)  
+- Podsumowanie oraz sesja Q&A  
 
 ---
 
