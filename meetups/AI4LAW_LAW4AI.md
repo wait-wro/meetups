@@ -1,6 +1,5 @@
 # AI4LAW | LAW4AI  
 
-## Inżynierowie dla Prawa, Prawnicy dla Inżynierów
 
 ## 📌 Spis treści  
 - [👤 Prelegenci](#-prelegenci)  
@@ -49,7 +48,7 @@ Od prawie 10 lat doradza przedsiębiorstwom w zakresie prawa IT, własności int
 
 **AI4LAW | LAW4AI** - całodzienny piątkowy event, w sam raz na łagodne przejście z zapracowanego tygodnia w weekendowy chill 🤗
 
-Wydarzenie podzielimy na 2 naprzemienne ścieżki:
+Wydarzenie podzielimśmy na 2 naprzemienne ścieżki:
 
 🟦 AI4LAW: Inżynierowie AI powiedzą jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.
 🟩 LAW4AI: Prawnicy opowiedzą o wyzwaniach prawnych wdrożeń systemów AI.
