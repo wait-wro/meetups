@@ -5,9 +5,8 @@
 - [👤 Prelegenci](#-prelegenci)  
 - [ℹ️ Opis wydarzenia](#-opis-wydarzenia)  
 - [🗂️ Agenda](#-agenda)  
-- [📸 Zdjęcia z meetupu](#-zdjęcia-z-meetupu)  
-- [📚 Materiały z meetupu](#-materiały-z-meetupu)  
-- [📎 Dodatkowe materiały](#-dodatkowe-materiały)  
+- [📸 Zdjęcia](#-zdjęcia)  
+- [📚 Materiały dodatkowe (prezentacje)](#-materiały-dodatkowe-(prezentacje))  
 - [🤝 Partnerzy](#-partnerzy)  
 
 ---
@@ -48,7 +47,7 @@ Od prawie 10 lat doradza przedsiębiorstwom w zakresie prawa IT, własności int
 
 **AI4LAW | LAW4AI** - całodzienny piątkowy event, w sam raz na łagodne przejście z zapracowanego tygodnia w weekendowy chill 🤗
 
-Wydarzenie podzielimśmy na 2 naprzemienne ścieżki:
+Wydarzenie podzieliliśmy na 2 naprzemienne ścieżki:
 
 🟦 AI4LAW: Inżynierowie AI powiedzą jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.
 🟩 LAW4AI: Prawnicy opowiedzą o wyzwaniach prawnych wdrożeń systemów AI.
@@ -92,17 +91,17 @@ To wyjątkowa okazja, aby zdobyć praktyczną wiedzę o AI w prawie, posłuchać
 ---
 
 ## 📸 Zdjęcia
-[Kliknij tutaj, aby zobaczyć zdjęcia](https://drive.google.com/drive/folders/1_w37im5t5HImVzSqb_lnrfBEu9HbrJDw)
+[Kliknij tutaj, aby zobaczyć zdjęcia](https://photos.app.goo.gl/YN7GTLTAoyUJYJfZ9)
 
 ---
 
-## 📚 Materiały
-- ["PLLuM - wielki model językowy dla języka polskiego"](https://drive.google.com/file/d/1m9BClg4FNJoZpb6_GcL6DY-qxTG5OmHb/view?usp=sharing)
-- ["Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"](https://drive.google.com/file/d/1WssB6G0U2Jcel0t3fmILZw3JcoxcDsph/view?usp=sharing)
-- ["AI w praktyce prawniczej: Narzędzia, które zmienią grę"](https://drive.google.com/file/d/1P-3bvUaqtuwDlKWQawkv35aeczy779y6/view?usp=sharing)
-- ["AI Act oczami deweloperów: co musisz wiedzieć"](https://drive.google.com/file/d/1-ERasWgKbs9PFvOeVjDyss3dtYSc88z3/view?usp=sharing)
-- ["Trendy w branży legaltech na rok 2025"](https://drive.google.com/file/d/1wzGMtD8zoQnUSs_2VnOahQ2Sd3CTOwaM/view?usp=sharing)
-- ["Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"](https://drive.google.com/file/d/1N8vHNEOk1gh1-FTSSGnNFdSu0P8e9nmk/view?usp=sharing)
+## 📚 Materiały dodatkowe (prezentacje)
+- [dr Jan Kocoń - "PLLuM - wielki model językowy dla języka polskiego"](https://drive.google.com/file/d/1m9BClg4FNJoZpb6_GcL6DY-qxTG5OmHb/view?usp=sharing)
+- [Karolina Krawczyk - "Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"](https://drive.google.com/file/d/1WssB6G0U2Jcel0t3fmILZw3JcoxcDsph/view?usp=sharing)
+- [Witold Wydmański - "AI w praktyce prawniczej: Narzędzia, które zmienią grę"](https://drive.google.com/file/d/1P-3bvUaqtuwDlKWQawkv35aeczy779y6/view?usp=sharing)
+- [dr Maria Dymitruk - "AI Act oczami deweloperów: co musisz wiedzieć"](https://drive.google.com/file/d/1-ERasWgKbs9PFvOeVjDyss3dtYSc88z3/view?usp=sharing)
+- [Grzegorz Borkowski - "Trendy w branży legaltech na rok 2025"](https://drive.google.com/file/d/1wzGMtD8zoQnUSs_2VnOahQ2Sd3CTOwaM/view?usp=sharing)
+- [Jędrzej Stępniowski - "Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"](https://drive.google.com/file/d/1N8vHNEOk1gh1-FTSSGnNFdSu0P8e9nmk/view?usp=sharing)
 
 ---
 
