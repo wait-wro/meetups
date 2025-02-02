@@ -2,12 +2,59 @@
 
 
 ## 📌 Spis treści  
-- [👤 Prelegenci](#-prelegenci)  
 - [ℹ️ Opis wydarzenia](#-opis-wydarzenia)  
-- [🗂️ Agenda](#-agenda)  
+- [🗂️ Agenda](#-agenda)
+- [👤 Prelegenci](#-prelegenci)    
 - [📸 Zdjęcia](#-zdjęcia)  
 - [📚 Materiały dodatkowe (prezentacje)](#-materiały-dodatkowe-(prezentacje))  
 - [🤝 Partnerzy](#-partnerzy)  
+
+---
+
+## ℹ️ Opis wydarzenia
+
+**AI4LAW | LAW4AI** - całodzienny piątkowy event, w sam raz na łagodne przejście z zapracowanego tygodnia w weekendowy chill 🤗
+
+Wydarzenie podzieliliśmy na 2 naprzemienne ścieżki:
+
+🟦 AI4LAW: Inżynierowie AI powiedzą jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.
+🟩 LAW4AI: Prawnicy opowiedzą o wyzwaniach prawnych wdrożeń systemów AI.
+
+### 🟦 dr Jan Kocoń
+Omówił proces tworzenia wielkich modeli językowych z rodziny PLLuM ukierunkowanych na wykorzystanie w języku polskim, zwłaszcza w administracji publicznej. Przedstawił takie zagadnienia, jak: gromadzenie danych, adaptacja modelu do języka, dostrajanie na instrukcjach, wychowywanie na preferencjach, walidacja, a także przygotowanie modelu w formie inteligentnego asystenta z wykorzystaniem podejścia RAG.
+
+### 🟩 Karolina Krawczyk
+Przedstawiła praktyczne zastosowania AI, takie jak automatyzacja przeglądu umów, analiza i zarządzanie dokumentacją, a także ich wpływ na kluczowe czynniki sukcesu: zwiększenie efektywności, obniżenie kosztów i poprawa jakości usług. Omówiona została koncepcja "smart lawyer", czyli prawnika jako strategicznego partnera biznesowego.
+
+### 🟦 Witold Wydmański
+Opowiedział jak ztuczna inteligencja rewolucjonizuje sposób pracy prawników. W trakcie prezentacji przedstawił praktyczne narzędzia, takie jak systemy do researchowania klientów, wyszukiwanie treści w skanach dokumentów, czy inteligentne podpowiadacze orzeczeń. Uczestnicy wydarzenia mogli dowiedzieć się, jak AI oszczędza czas, podnosi jakość pracy i pomaga w podejmowaniu lepszych decyzji w codziennej praktyce prawniczej. To nie tylko technologia – to wsparcie, które zmienia zasady gry.
+
+### 🟩 dr Maria Dymitruk
+Przedstawiła kluczowe aspekty unijnego AI Act z perspektywy deweloperów AI. Jakie nowe wymagania wprowadza AI Act, jak wpłyną one na proces tworzenia i wdrażania systemów sztucznej inteligencji i kiedy wejdą w życie. Słuchacze dowiedzieli się, jak przygotować swoje projekty, aby były zgodne z nowymi przepisami i uniknąć potencjalnych problemów prawnych.
+
+### 🟦 Grzegorz Borkowski
+Zaprezentował trendy w świecie legaltech w 2025 roku, koncentrując się na rozwiązaniach opartych o sztuczną inteligencję. Dodatkowo, przedstawił krajobraz polskich startupów legaltech, ze szczególnym uwzględnieniem innowacji AI.
+
+### 🟩 Jędrzej Stępniowski
+Omówił kluczowe aspekty prawne wykorzystania hiperpersonalizacji do wpływania na zachowania użytkowników i klientów. Szczególna uwaga została zwrócona na ograniczenia wynikające z przepisów o ochronie danych osobowych i AI Act.
+
+To wyjątkowa okazja, aby zdobyć praktyczną wiedzę o AI w prawie, posłuchać ekspertów i nawiązać wartościowe kontakty.
+
+📍 **Miejsce wydarzenia:**  
+**Uniwersytet Ekonomiczny we Wrocławiu – Budynek W, Sala 4 (parter)**  
+
+---
+
+## 🗂️ Agenda
+
+- **10:00 - 10:40** – dr Jan Kocoń (Politechnika Wrocławska): *"PLLuM - wielki model językowy dla języka polskiego"*  
+- **10:55 - 11:35** – Karolina Krawczyk (Legitize): *"Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"*  
+- **11:50 - 12:30** – Witold Wydmański (Gaius-Lex): *"AI w praktyce prawniczej: Narzędzia, które zmienią grę"*  
+- **12:30 - 12:40** – dr hab. Grzegorz Krzos (UEW): *"Źródła finansowania projektów z wykorzystaniem AI w obszarze prawa na lata 2025-2027"*  
+- **12:40 - 13:30** – Przerwa ☕
+- **13:30 - 14:10** – dr Maria Dymitruk (Uniwersytet Wrocławski): *"AI Act oczami deweloperów: co musisz wiedzieć"*  
+- **14:25 - 15:05** – Grzegorz Borkowski (Wrocław AI Team, UEW): *"Trendy w branży legaltech na rok 2025"*  
+- **15:20 - 16:00** – Jędrzej Stępniowski (dotlaw): *"Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"*  
 
 ---
 
@@ -40,53 +87,6 @@ Członek Wrocław AI Team i student Informatyki w Biznesie na Uniwersytecie Ekon
 
 ### ⚖️ [Jędrzej Stępniowski](https://www.linkedin.com/in/jstepniowski/) (dotlaw)  
 Od prawie 10 lat doradza przedsiębiorstwom w zakresie prawa IT, własności intelektualnej i ochrony danych osobowych. Uczestniczy w tworzeniu i negocjowaniu umów licencyjnych, wdrożeniowych i utrzymaniowych, wspierając klientów zarówno po stronie zamawiającego, jak i wykonawcy. Prowadził z sukcesem projekty wdrożeniowe AI w organizacjach, zapewniając wsparcie prawne. Przeprowadza audyty zgodności oprogramowania open source, tworzy polityki korzystania z niego i wspiera transakcje M&A w procesach due diligence. Jest członkiem International Association of Privacy Professionals oraz posiada certyfikat CIPP/E, który potwierdza jego wiedzę w zakresie ochrony danych.
-
----
-
-## ℹ️ Opis wydarzenia
-
-**AI4LAW | LAW4AI** - całodzienny piątkowy event, w sam raz na łagodne przejście z zapracowanego tygodnia w weekendowy chill 🤗
-
-Wydarzenie podzieliliśmy na 2 naprzemienne ścieżki:
-
-🟦 AI4LAW: Inżynierowie AI powiedzą jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.
-🟩 LAW4AI: Prawnicy opowiedzą o wyzwaniach prawnych wdrożeń systemów AI.
-
-### 🟦 dr Jan Kocoń
-Omówi proces tworzenia wielkich modeli językowych z rodziny PLLuM ukierunkowanych na wykorzystanie w języku polskim, zwłaszcza w administracji publicznej. Przedstawi takie zagadnienia, jak: gromadzenie danych, adaptacja modelu do języka, dostrajanie na instrukcjach, wychowywanie na preferencjach, walidacja, a także przygotowanie modelu w formie inteligentnego asystenta z wykorzystaniem podejścia RAG.
-
-### 🟩 Karolina Krawczyk
-Przedstawi praktyczne zastosowania AI, takie jak automatyzacja przeglądu umów, analiza i zarządzanie dokumentacją, a także ich wpływ na kluczowe czynniki sukcesu: zwiększenie efektywności, obniżenie kosztów i poprawa jakości usług. Omówiona zostanie koncepcja "smart lawyer", czyli prawnika jako strategicznego partnera biznesowego.
-
-### 🟦 Witold Wydmański
-Opowie jak ztuczna inteligencja rewolucjonizuje sposób pracy prawników. W trakcie prezentacji przedstawi praktyczne narzędzia, takie jak systemy do researchowania klientów, wyszukiwanie treści w skanach dokumentów, czy inteligentne podpowiadacze orzeczeń. Dowiesz się, jak AI oszczędza czas, podnosi jakość pracy i pomaga w podejmowaniu lepszych decyzji w codziennej praktyce prawniczej. To nie tylko technologia – to wsparcie, które zmienia zasady gry.
-
-### 🟩 dr Maria Dymitruk
-Przedstawi kluczowe aspekty unijnego AI Act z perspektywy deweloperów AI. Jakie nowe wymagania wprowadza AI Act, jak wpłyną one na proces tworzenia i wdrażania systemów sztucznej inteligencji i kiedy wejdą w życie. Dowiesz się, jak przygotować swoje projekty, aby były zgodne z nowymi przepisami i uniknąć potencjalnych problemów prawnych.
-
-### 🟦 Grzegorz Borkowski
-Zaprezentuje trendy w świecie legaltech w 2025 roku, koncentrując się na rozwiązaniach opartych o sztuczną inteligencję. Dodatkowo, przedstawi krajobraz polskich startupów legaltech, ze szczególnym uwzględnieniem innowacji AI.
-
-### 🟩 Jędrzej Stępniowski
-Omówi kluczowe aspekty prawne wykorzystania hiperpersonalizacji do wpływania na zachowania użytkowników i klientów. Szczególna uwaga zostanie zwrócona na ograniczenia wynikające z przepisów o ochronie danych osobowych i AI Act.
-
-To wyjątkowa okazja, aby zdobyć praktyczną wiedzę o AI w prawie, posłuchać ekspertów i nawiązać wartościowe kontakty.
-
-📍 **Miejsce wydarzenia:**  
-**Uniwersytet Ekonomiczny we Wrocławiu – Budynek W, Sala 4 (parter)**  
-
----
-
-## 🗂️ Agenda
-
-- **10:00 - 10:40** – dr Jan Kocoń (Politechnika Wrocławska): *"PLLuM - wielki model językowy dla języka polskiego"*  
-- **10:55 - 11:35** – Karolina Krawczyk (Legitize): *"Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"*  
-- **11:50 - 12:30** – Witold Wydmański (Gaius-Lex): *"AI w praktyce prawniczej: Narzędzia, które zmienią grę"*  
-- **12:30 - 12:40** – dr hab. Grzegorz Krzos (UEW): *"Źródła finansowania projektów z wykorzystaniem AI w obszarze prawa na lata 2025-2027"*  
-- **12:40 - 13:30** – Przerwa ☕
-- **13:30 - 14:10** – dr Maria Dymitruk (Uniwersytet Wrocławski): *"AI Act oczami deweloperów: co musisz wiedzieć"*  
-- **14:25 - 15:05** – Grzegorz Borkowski (Wrocław AI Team, UEW): *"Trendy w branży legaltech na rok 2025"*  
-- **15:20 - 16:00** – Jędrzej Stępniowski (dotlaw): *"Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"*  
 
 ---
 
