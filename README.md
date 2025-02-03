@@ -8,6 +8,15 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/01/24 | [AI4LAW | LAW4AI](https://github.com/wait-wro/meetups/blob/main/meetups/AI4LAW_LAW4AI.md)
+### 1. "PLLuM - wielki model językowy dla języka polskiego"
+### 2. "Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"
+### 3. "AI w praktyce prawniczej: Narzędzia, które zmienią grę"
+### 4. "AI Act oczami deweloperów: co musisz wiedzieć"
+### 5. "Trendy w branży legaltech na rok 2025"
+### 6. "Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"
+
+#
 ## 🗓️  2024/11/26 | [MEETUP #7](https://github.com/wait-wro/meetups/blob/main/meetups/007Meetup.md)
 ### 1. “Dlaczego hakerzy kochają Twoją aplikację AI?”
 ### 2. “Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości.”
