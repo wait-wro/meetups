@@ -2,13 +2,37 @@
 
 
 ## 📌 Spis treści  
-- [👤 Prelegenci](#-prelegenci)  
-- [ℹ️ Opis wydarzenia](#-opis-wydarzenia)  
+- [ℹ️ Opis wydarzenia](#-opis-wydarzenia) 
 - [🗂️ Agenda](#-agenda)  
-- [📸 Zdjęcia z meetupu](#-zdjęcia-z-meetupu)  
-- [📚 Materiały z meetupu](#-materiały-z-meetupu)  
-- [📎 Dodatkowe materiały](#-dodatkowe-materiały)  
+- [👤 Prelegenci](#-prelegenci)  
+- [📸 Zdjęcia z wydarzenia](#-zdjęcia-z-meetupu)  
+- [📚 Prezentacje Prelegentów](#-materiały-z-meetupu)  
 - [🤝 Partnerzy](#-partnerzy)  
+
+---
+
+## ℹ️ Opis wydarzenia
+
+**AI4LAW | LAW4AI** - wydarzenie dedykowane prawnikom i inżynierom AI, które miało na celu połączenie tych dwóch światów i stworzenie przestrzeni do wymiany wiedzy oraz doświadczeń między specjalistami z obu dziedzin.
+
+Wydarzenie podzielimśmy na 2 naprzemienne ścieżki:
+
+🟦 AI4LAW: Inżynierowie AI opowiedzieli jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.<br>
+🟩 LAW4AI: Prawnicy opowiedzieli o wyzwaniach prawnych wdrożeń systemów AI.
+
+
+---
+
+## 🗂️ Agenda
+
+- **10:00 - 10:40** – dr Jan Kocoń (Politechnika Wrocławska): *"PLLuM - wielki model językowy dla języka polskiego"*  
+- **10:55 - 11:35** – Karolina Krawczyk (Legitize): *"Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"*  
+- **11:50 - 12:30** – Witold Wydmański (Gaius-Lex): *"AI w praktyce prawniczej: Narzędzia, które zmienią grę"*  
+- **12:30 - 12:40** – dr hab. Grzegorz Krzos (UEW): *"Źródła finansowania projektów z wykorzystaniem AI w obszarze prawa na lata 2025-2027"*  
+- **12:40 - 13:30** – Przerwa ☕
+- **13:30 - 14:10** – dr Maria Dymitruk (Uniwersytet Wrocławski): *"AI Act oczami deweloperów: co musisz wiedzieć"*  
+- **14:25 - 15:05** – Grzegorz Borkowski (Wrocław AI Team, UEW): *"Trendy w branży legaltech na rok 2025"*  
+- **15:20 - 16:00** – Jędrzej Stępniowski (dotlaw): *"Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"*  
 
 ---
 
@@ -44,15 +68,6 @@ Od prawie 10 lat doradza przedsiębiorstwom w zakresie prawa IT, własności int
 
 ---
 
-## ℹ️ Opis wydarzenia
-
-**AI4LAW | LAW4AI** - całodzienny piątkowy event, w sam raz na łagodne przejście z zapracowanego tygodnia w weekendowy chill 🤗
-
-Wydarzenie podzielimśmy na 2 naprzemienne ścieżki:
-
-🟦 AI4LAW: Inżynierowie AI powiedzą jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.
-🟩 LAW4AI: Prawnicy opowiedzą o wyzwaniach prawnych wdrożeń systemów AI.
-
 ### 🟦 dr Jan Kocoń
 Omówi proces tworzenia wielkich modeli językowych z rodziny PLLuM ukierunkowanych na wykorzystanie w języku polskim, zwłaszcza w administracji publicznej. Przedstawi takie zagadnienia, jak: gromadzenie danych, adaptacja modelu do języka, dostrajanie na instrukcjach, wychowywanie na preferencjach, walidacja, a także przygotowanie modelu w formie inteligentnego asystenta z wykorzystaniem podejścia RAG.
 
@@ -70,24 +85,6 @@ Zaprezentuje trendy w świecie legaltech w 2025 roku, koncentrując się na rozw
 
 ### 🟩 Jędrzej Stępniowski
 Omówi kluczowe aspekty prawne wykorzystania hiperpersonalizacji do wpływania na zachowania użytkowników i klientów. Szczególna uwaga zostanie zwrócona na ograniczenia wynikające z przepisów o ochronie danych osobowych i AI Act.
-
-To wyjątkowa okazja, aby zdobyć praktyczną wiedzę o AI w prawie, posłuchać ekspertów i nawiązać wartościowe kontakty.
-
-📍 **Miejsce wydarzenia:**  
-**Uniwersytet Ekonomiczny we Wrocławiu – Budynek W, Sala 4 (parter)**  
-
----
-
-## 🗂️ Agenda
-
-- **10:00 - 10:40** – dr Jan Kocoń (Politechnika Wrocławska): *"PLLuM - wielki model językowy dla języka polskiego"*  
-- **10:55 - 11:35** – Karolina Krawczyk (Legitize): *"Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"*  
-- **11:50 - 12:30** – Witold Wydmański (Gaius-Lex): *"AI w praktyce prawniczej: Narzędzia, które zmienią grę"*  
-- **12:30 - 12:40** – dr hab. Grzegorz Krzos (UEW): *"Źródła finansowania projektów z wykorzystaniem AI w obszarze prawa na lata 2025-2027"*  
-- **12:40 - 13:30** – Przerwa ☕
-- **13:30 - 14:10** – dr Maria Dymitruk (Uniwersytet Wrocławski): *"AI Act oczami deweloperów: co musisz wiedzieć"*  
-- **14:25 - 15:05** – Grzegorz Borkowski (Wrocław AI Team, UEW): *"Trendy w branży legaltech na rok 2025"*  
-- **15:20 - 16:00** – Jędrzej Stępniowski (dotlaw): *"Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"*  
 
 ---
 
