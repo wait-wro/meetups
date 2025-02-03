@@ -5,8 +5,8 @@
 - [ℹ️ Opis wydarzenia](#-opis-wydarzenia) 
 - [🗂️ Agenda](#-agenda)  
 - [👤 Prelegenci](#-prelegenci)  
-- [📸 Zdjęcia z wydarzenia](#-zdjęcia-z-meetupu)  
-- [📚 Prezentacje Prelegentów](#-materiały-z-meetupu)  
+- [📸 Zdjęcia z wydarzenia](#-zdjęcia)  
+- [📚 Prezentacje Prelegentów](#-materiały)  
 - [🤝 Partnerzy](#-partnerzy)  
 
 ---
