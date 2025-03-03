@@ -8,6 +8,11 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/02/25 | [MEETUP #8](https://github.com/wait-wro/meetups/blob/main/meetups/008Meetup.md)
+### 1. “Terapeuta z Krzemowej Doliny: jak AI rewolucjonizuje wsparcie psychiczne.”
+### 2. “Wgląd w głąb. Co można odkrywać z danych z wearables.”
+
+#
 ## 🗓️  2025/01/24 | [AI4LAW | LAW4AI](https://github.com/wait-wro/meetups/blob/main/meetups/AI4LAW_LAW4AI.md)
 ### 1. "PLLuM - wielki model językowy dla języka polskiego"
 ### 2. "Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"

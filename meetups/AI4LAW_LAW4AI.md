@@ -2,46 +2,24 @@
 
 
 ## 📌 Spis treści  
-- [ℹ️ Opis wydarzenia](#-opis-wydarzenia)  
-- [🗂️ Agenda](#-agenda)
-- [👤 Prelegenci](#-prelegenci)    
-- [📸 Zdjęcia](#-zdjęcia)  
-- [📚 Materiały dodatkowe (prezentacje)](#-materiały-dodatkowe-(prezentacje))  
+- [ℹ️ Opis wydarzenia](#-opis-wydarzenia) 
+- [🗂️ Agenda](#-agenda)  
+- [👤 Prelegenci](#-prelegenci)  
+- [📸 Zdjęcia z wydarzenia](#-zdjęcia)  
+- [📚 Prezentacje Prelegentów](#-materiały)  
 - [🤝 Partnerzy](#-partnerzy)  
 
 ---
 
 ## ℹ️ Opis wydarzenia
 
-**AI4LAW | LAW4AI** - całodzienny piątkowy event, w sam raz na łagodne przejście z zapracowanego tygodnia w weekendowy chill 🤗
+**AI4LAW | LAW4AI** - wydarzenie dedykowane prawnikom i inżynierom AI, które miało na celu połączenie tych dwóch światów i stworzenie przestrzeni do wymiany wiedzy oraz doświadczeń między specjalistami z obu dziedzin.
 
-Wydarzenie podzieliliśmy na 2 naprzemienne ścieżki:
+Wydarzenie podzielimśmy na 2 naprzemienne ścieżki:
 
-🟦 AI4LAW: Inżynierowie AI powiedzą jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.
-🟩 LAW4AI: Prawnicy opowiedzą o wyzwaniach prawnych wdrożeń systemów AI.
+🟦 AI4LAW: Inżynierowie AI opowiedzieli jak współczesne rozwiązania AI i Uczenia Maszynowego zmieniają pracę prawników.<br>
+🟩 LAW4AI: Prawnicy opowiedzieli o wyzwaniach prawnych wdrożeń systemów AI.
 
-### 🟦 dr Jan Kocoń
-Omówił proces tworzenia wielkich modeli językowych z rodziny PLLuM ukierunkowanych na wykorzystanie w języku polskim, zwłaszcza w administracji publicznej. Przedstawił takie zagadnienia, jak: gromadzenie danych, adaptacja modelu do języka, dostrajanie na instrukcjach, wychowywanie na preferencjach, walidacja, a także przygotowanie modelu w formie inteligentnego asystenta z wykorzystaniem podejścia RAG.
-
-### 🟩 Karolina Krawczyk
-Przedstawiła praktyczne zastosowania AI, takie jak automatyzacja przeglądu umów, analiza i zarządzanie dokumentacją, a także ich wpływ na kluczowe czynniki sukcesu: zwiększenie efektywności, obniżenie kosztów i poprawa jakości usług. Omówiona została koncepcja "smart lawyer", czyli prawnika jako strategicznego partnera biznesowego.
-
-### 🟦 Witold Wydmański
-Opowiedział jak ztuczna inteligencja rewolucjonizuje sposób pracy prawników. W trakcie prezentacji przedstawił praktyczne narzędzia, takie jak systemy do researchowania klientów, wyszukiwanie treści w skanach dokumentów, czy inteligentne podpowiadacze orzeczeń. Uczestnicy wydarzenia mogli dowiedzieć się, jak AI oszczędza czas, podnosi jakość pracy i pomaga w podejmowaniu lepszych decyzji w codziennej praktyce prawniczej. To nie tylko technologia – to wsparcie, które zmienia zasady gry.
-
-### 🟩 dr Maria Dymitruk
-Przedstawiła kluczowe aspekty unijnego AI Act z perspektywy deweloperów AI. Jakie nowe wymagania wprowadza AI Act, jak wpłyną one na proces tworzenia i wdrażania systemów sztucznej inteligencji i kiedy wejdą w życie. Słuchacze dowiedzieli się, jak przygotować swoje projekty, aby były zgodne z nowymi przepisami i uniknąć potencjalnych problemów prawnych.
-
-### 🟦 Grzegorz Borkowski
-Zaprezentował trendy w świecie legaltech w 2025 roku, koncentrując się na rozwiązaniach opartych o sztuczną inteligencję. Dodatkowo, przedstawił krajobraz polskich startupów legaltech, ze szczególnym uwzględnieniem innowacji AI.
-
-### 🟩 Jędrzej Stępniowski
-Omówił kluczowe aspekty prawne wykorzystania hiperpersonalizacji do wpływania na zachowania użytkowników i klientów. Szczególna uwaga została zwrócona na ograniczenia wynikające z przepisów o ochronie danych osobowych i AI Act.
-
-To wyjątkowa okazja, aby zdobyć praktyczną wiedzę o AI w prawie, posłuchać ekspertów i nawiązać wartościowe kontakty.
-
-📍 **Miejsce wydarzenia:**  
-**Uniwersytet Ekonomiczny we Wrocławiu – Budynek W, Sala 4 (parter)**  
 
 ---
 
@@ -90,18 +68,38 @@ Od prawie 10 lat doradza przedsiębiorstwom w zakresie prawa IT, własności int
 
 ---
 
-## 📸 Zdjęcia
-[Kliknij tutaj, aby zobaczyć zdjęcia](https://photos.app.goo.gl/YN7GTLTAoyUJYJfZ9)
+### 🟦 dr Jan Kocoń
+Omówi proces tworzenia wielkich modeli językowych z rodziny PLLuM ukierunkowanych na wykorzystanie w języku polskim, zwłaszcza w administracji publicznej. Przedstawi takie zagadnienia, jak: gromadzenie danych, adaptacja modelu do języka, dostrajanie na instrukcjach, wychowywanie na preferencjach, walidacja, a także przygotowanie modelu w formie inteligentnego asystenta z wykorzystaniem podejścia RAG.
+
+### 🟩 Karolina Krawczyk
+Przedstawi praktyczne zastosowania AI, takie jak automatyzacja przeglądu umów, analiza i zarządzanie dokumentacją, a także ich wpływ na kluczowe czynniki sukcesu: zwiększenie efektywności, obniżenie kosztów i poprawa jakości usług. Omówiona zostanie koncepcja "smart lawyer", czyli prawnika jako strategicznego partnera biznesowego.
+
+### 🟦 Witold Wydmański
+Opowie jak ztuczna inteligencja rewolucjonizuje sposób pracy prawników. W trakcie prezentacji przedstawi praktyczne narzędzia, takie jak systemy do researchowania klientów, wyszukiwanie treści w skanach dokumentów, czy inteligentne podpowiadacze orzeczeń. Dowiesz się, jak AI oszczędza czas, podnosi jakość pracy i pomaga w podejmowaniu lepszych decyzji w codziennej praktyce prawniczej. To nie tylko technologia – to wsparcie, które zmienia zasady gry.
+
+### 🟩 dr Maria Dymitruk
+Przedstawi kluczowe aspekty unijnego AI Act z perspektywy deweloperów AI. Jakie nowe wymagania wprowadza AI Act, jak wpłyną one na proces tworzenia i wdrażania systemów sztucznej inteligencji i kiedy wejdą w życie. Dowiesz się, jak przygotować swoje projekty, aby były zgodne z nowymi przepisami i uniknąć potencjalnych problemów prawnych.
+
+### 🟦 Grzegorz Borkowski
+Zaprezentuje trendy w świecie legaltech w 2025 roku, koncentrując się na rozwiązaniach opartych o sztuczną inteligencję. Dodatkowo, przedstawi krajobraz polskich startupów legaltech, ze szczególnym uwzględnieniem innowacji AI.
+
+### 🟩 Jędrzej Stępniowski
+Omówi kluczowe aspekty prawne wykorzystania hiperpersonalizacji do wpływania na zachowania użytkowników i klientów. Szczególna uwaga zostanie zwrócona na ograniczenia wynikające z przepisów o ochronie danych osobowych i AI Act.
 
 ---
 
-## 📚 Materiały dodatkowe (prezentacje)
-- [dr Jan Kocoń - "PLLuM - wielki model językowy dla języka polskiego"](https://drive.google.com/file/d/1m9BClg4FNJoZpb6_GcL6DY-qxTG5OmHb/view?usp=sharing)
-- [Karolina Krawczyk - "Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"](https://drive.google.com/file/d/1WssB6G0U2Jcel0t3fmILZw3JcoxcDsph/view?usp=sharing)
-- [Witold Wydmański - "AI w praktyce prawniczej: Narzędzia, które zmienią grę"](https://drive.google.com/file/d/1P-3bvUaqtuwDlKWQawkv35aeczy779y6/view?usp=sharing)
-- [dr Maria Dymitruk - "AI Act oczami deweloperów: co musisz wiedzieć"](https://drive.google.com/file/d/1-ERasWgKbs9PFvOeVjDyss3dtYSc88z3/view?usp=sharing)
-- [Grzegorz Borkowski - "Trendy w branży legaltech na rok 2025"](https://drive.google.com/file/d/1wzGMtD8zoQnUSs_2VnOahQ2Sd3CTOwaM/view?usp=sharing)
-- [Jędrzej Stępniowski - "Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"](https://drive.google.com/file/d/1N8vHNEOk1gh1-FTSSGnNFdSu0P8e9nmk/view?usp=sharing)
+## 📸 Zdjęcia
+[Kliknij tutaj, aby zobaczyć zdjęcia](https://drive.google.com/drive/folders/1_w37im5t5HImVzSqb_lnrfBEu9HbrJDw)
+
+---
+
+## 📚 Materiały
+- ["PLLuM - wielki model językowy dla języka polskiego"](https://drive.google.com/file/d/1m9BClg4FNJoZpb6_GcL6DY-qxTG5OmHb/view?usp=sharing)
+- ["Kluczowe czynniki sukcesu w branży prawniczej pod wpływem AI"](https://drive.google.com/file/d/1WssB6G0U2Jcel0t3fmILZw3JcoxcDsph/view?usp=sharing)
+- ["AI w praktyce prawniczej: Narzędzia, które zmienią grę"](https://drive.google.com/file/d/1P-3bvUaqtuwDlKWQawkv35aeczy779y6/view?usp=sharing)
+- ["AI Act oczami deweloperów: co musisz wiedzieć"](https://drive.google.com/file/d/1-ERasWgKbs9PFvOeVjDyss3dtYSc88z3/view?usp=sharing)
+- ["Trendy w branży legaltech na rok 2025"](https://drive.google.com/file/d/1wzGMtD8zoQnUSs_2VnOahQ2Sd3CTOwaM/view?usp=sharing)
+- ["Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"](https://drive.google.com/file/d/1N8vHNEOk1gh1-FTSSGnNFdSu0P8e9nmk/view?usp=sharing)
 
 ---
 
