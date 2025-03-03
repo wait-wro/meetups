@@ -35,10 +35,10 @@ Z kolei dr hab. Stanisław Saganowski przedstawił możliwości, ograniczenia i 
 
 ## 👤 Prelegenci
 
-[Krzysztof Wiatr](https://www.linkedin.com/in/krzysztof-wiatr-/):
+### [Krzysztof Wiatr](https://www.linkedin.com/in/krzysztof-wiatr-/):
 Absolwent Uniwersytetu Ekonomicznego we Wrocławiu - kierunek “Zarządzanie i Inżynieria Produkcji” z tytułem inż. Obecnie student ostatniego roku psychologii na Uniwersytecie SWPS - specjalność kliniczna. Projektował i prowadził innowacyjne warsztaty dla młodzieży i dzieci atypowych z wykorzystaniem nowych technologii w projekcie „Mincraft dla Asów”. Założyciel i przewodniczący Koła Naukowego HumanTech Wrocław zajmującym się psychologią nowych technologii. Współzałożyciel startupu „Mentalicare AI” mającego na celu stworzenie aplikacji do szybkiego wykrywania ryzyka depresji na podstawie biofeedbacku zbieranego przez urządzenia wearables. Współzałożyciel startupu wykorzystującego twarde dane naukowe oraz sztuczną inteligencję do walki z uzależnieniem od mediów społecznościowych. Uczestnik wielu projektów badawczych. Od dziecka interesuje się psychologią i nowymi technologiami. Jego ulubionym superbohaterem jest Ironman ponieważ wykorzystuje naukę w celu czynienia dobra.
 
-[dr hab. Stanisław Saganowski](https://www.linkedin.com/in/ssaganowski/):
+### [dr hab. Stanisław Saganowski](https://www.linkedin.com/in/ssaganowski/):
 Stasiek jest naukowcem w Katedrze Sztucznej Inteligencji na Politechnice Wrocławskiej. Współprowadzi grupę naukową Emognition, która zajmuje się analizą zdrowia, emocji i dobrostanu z danych gromadzonych przez wearables. Nawiązał współpracę z najlepszymi naukowcami na świecie, a jego badania zostały docenione m.in. w formie stypendium Ministra Nauki dla Wybitnych Młodych Naukowców. Należy do stowarzyszenia Top 500 Innovators. Stasiek jest też ekspertem od rozwiązań mobilnych, szczególnie wearables. Ale najbardziej jest tatą dwóch cudownych córek, z którymi uwielbia podróżować.
 
 ---
