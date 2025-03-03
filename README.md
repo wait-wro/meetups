@@ -1,6 +1,3 @@
-
-<br>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wait-wro.meetups"/>
 <br>
 
@@ -9,6 +6,7 @@
 
 #
 ## 🗓️  2025/02/25 | [MEETUP #8](https://github.com/wait-wro/meetups/blob/main/meetups/008Meetup.md)
+
 ### 1. “Terapeuta z Krzemowej Doliny: jak AI rewolucjonizuje wsparcie psychiczne.”
 ### 2. “Wgląd w głąb. Co można odkrywać z danych z wearables.”
 
@@ -23,13 +21,13 @@
 
 #
 ## 🗓️  2024/11/26 | [MEETUP #7](https://github.com/wait-wro/meetups/blob/main/meetups/007Meetup.md)
-### 1. “Dlaczego hakerzy kochają Twoją aplikację AI?”
-### 2. “Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości.”
+### 1. "Dlaczego hakerzy kochają Twoją aplikację AI?"
+### 2. "Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości."
 
 #
 ## 🗓️  2024/10/26 | [MEETUP #6](https://github.com/wait-wro/meetups/blob/006Meetup/meetups/006Meetup.md)
-### 1. „Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce"
-### 2. “Zaczyna się od myśli… - pasywne interfejsy mózg komputer”
+### 1. "Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce"
+### 2. "Zaczyna się od myśli… - pasywne interfejsy mózg komputer"
 
 #
 ## 🗓️  2024/09/24 | [MEETUP #5](https://github.com/wait-wro/meetups/blob/005Meetup/meetups/005Meetup.md)
