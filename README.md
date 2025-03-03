@@ -6,8 +6,9 @@
 
 #
 ## 🗓️  2025/02/25 | [MEETUP #8](https://github.com/wait-wro/meetups/blob/main/meetups/008Meetup.md)
-### 1. "Terapeuta z Krzemowej Doliny: jak AI rewolucjonizuje wsparcie psychiczne."
-### 2. "Wgląd w głąb. Co można odkrywać z danych z wearables."
+
+### 1. “Terapeuta z Krzemowej Doliny: jak AI rewolucjonizuje wsparcie psychiczne.”
+### 2. “Wgląd w głąb. Co można odkrywać z danych z wearables.”
 
 #
 ## 🗓️  2025/01/24 | [AI4LAW | LAW4AI](https://github.com/wait-wro/meetups/blob/main/meetups/AI4LAW_LAW4AI.md)
@@ -30,22 +31,22 @@
 
 #
 ## 🗓️  2024/09/24 | [MEETUP #5](https://github.com/wait-wro/meetups/blob/005Meetup/meetups/005Meetup.md)
-### 1. Function Calling w modelach językowych
-### 2. Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych
+### 1. "Function Calling w modelach językowych"
+### 2. "Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych"
 
 #
 ## 🗓️  2024/08/27 | [MEETUP #4](https://github.com/wait-wro/meetups/blob/004Meetup/meetups/004Meetup.md)
-### Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?
+### "Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?"
 
 #
 ## 🗓️  2024/07/30 | [MEETUP #3](https://github.com/wait-wro/meetups/blob/003Meetup/meetups/003Meetup.md)
-### Funkcja celu kontra biznes - Tomasz Melcer, Między matematyką a komputerami, teoria zderza się z praktyką - Michał Gołębiewicz
+### 1. "Funkcja celu kontra biznes"
+### 2. "Między matematyką a komputerami, teoria zderza się z praktyką"
 
 #
 ## 🗓️ 2024/06/25 | [MEETUP #2](https://github.com/wait-wro/meetups/blob/main/meetups/002Meetup.md)
-### Bielik od kuchni - jak powstaje polski model językowy w formule open-source/open-science
+### "Bielik od kuchni - jak powstaje polski model językowy w formule open-source/open-science"
 
 #
 ## 🗓️ 2024/05/28 | [MEETUP #1](https://github.com/wait-wro/meetups/blob/main/meetups/001Meetup.md)
-### Praktyczne wprowadzenie do AI i baz wektorowych
-
+### "Praktyczne wprowadzenie do AI i baz wektorowych"
