@@ -6,7 +6,8 @@
 - [ℹ️ Opis wydarzenia](#-opis-wydarzenia)  
 - [🗂️ Agenda](#-agenda)
 - [👤 Prelegenci](#-prelegenci)    
-- [📸 Zdjęcia](#-zdjęcia)  
+- [📸 Zdjęcia](#-zdjęcia)
+- [📚 Materiały](#-materiały)  
 - [🤝 Partnerzy](#-partnerzy)  
 
 ---
@@ -45,6 +46,11 @@ Stasiek jest naukowcem w Katedrze Sztucznej Inteligencji na Politechnice Wrocła
 
 ## 📸 Zdjęcia
 [Kliknij tutaj, aby zobaczyć zdjęcia](https://photos.app.goo.gl/5LPkeWDfBm4HQkeK8)
+
+---
+
+## 📚 Materiały
+["Wgląd w głąb. Co można odkrywać z danych z wearables."](https://drive.google.com/file/d/1s_vWOTelaGNf8pmrd79DwSZQVei3rANj/view?usp=drive_link)
 
 ---
 
