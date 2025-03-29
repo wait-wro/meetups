@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/03/25 | [MEETUP #9](https://github.com/wait-wro/meetups/blob/main/meetups/009Meetup.md)
+
+### 1. "GenAI w modzie: modele dyfuzyjne dla wirtualnego przymierzania"
+### 2. "Moda + AI = Automatyzacja, która sprzedaje"
+
+#
 ## 🗓️  2025/02/25 | [MEETUP #8](https://github.com/wait-wro/meetups/blob/main/meetups/008Meetup.md)
 
 ### 1. “Terapeuta z Krzemowej Doliny: jak AI rewolucjonizuje wsparcie psychiczne.”
