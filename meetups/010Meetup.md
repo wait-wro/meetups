@@ -59,9 +59,12 @@ Współzałożyciel software house'u specjalizującego się w IoT i ML. Ma bogat
 
 ## 📚 Materiały
 ["Przewidywanie awarii robota czyli predictive maintenance w praktyce"](https://drive.google.com/file/d/10JyaiHUA-rtLKijN5iSMChgJCKAFRhB2/view?usp=sharing)
+
 ["Wykorzystanie publicznych zbiorów danych w komercyjnych zastosowaniach predykcyjnego utrzymania ruchu"](https://drive.google.com/file/d/1_1NxJJjVQC8F2zfk8sX4vk9wiY5IJo9o/view?usp=sharing)
 
 ---
 
 ## 🤝 Partnerzy
 [Holisticon](https://www.linkedin.com/company/holisticon-poland/)
+
+[Solvro](https://www.linkedin.com/company/knsolvro/)
