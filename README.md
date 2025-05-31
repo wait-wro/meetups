@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/05/27 | [MEETUP #11](https://github.com/wait-wro/meetups/blob/main/meetups/011Meetup.md)
+
+### 1. "Making AI Understandable: An Introduction to Explainable AI and Counterfactuals"
+### 2. "Zrozumieć nie znaczy zaufać - nasze zachowania a wyjaśnialność AI"
+
+#
 ## 🗓️  2025/04/15 | [MEETUP #10](https://github.com/wait-wro/meetups/blob/main/meetups/010Meetup.md)
 
 ### 1. "Przewidywanie awarii robota czyli predictive maintenance w praktyce"
