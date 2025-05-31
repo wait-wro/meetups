@@ -54,11 +54,11 @@ Projektuje etyczną i odpowiedzialną AI opartą na wiedzy o ludzkim zachowaniu.
 ---
 
 ## 📚 Materiały
-["Making AI Understandable: An Introduction to Explainable AI and Counterfactuals"](https://drive.google.com/file/d/151RMaMbxP-YNWQlNHE_mdFl44Tryz3tV/view?usp=sharing)
+["Making AI Understandable: An Introduction to Explainable AI and Counterfactuals"](https://drive.google.com/file/d/151RMaMbxP-YNWQlNHE_mdFl44Tryz3tV/view?usp=sharing)<br>
 ["Zrozumieć nie znaczy zaufać - nasze zachowania a wyjaśnialność AI"](https://drive.google.com/file/d/1KXDf-_eg0Wq2ZoTeykoNo-jECSI3fNG8/view?usp=sharing)
 
 ---
 
 ## 🤝 Partnerzy
-[57Blocks](https://www.linkedin.com/company/57blocks/)
+[57Blocks](https://www.linkedin.com/company/57blocks/)<br>
 [ML in PL](https://www.linkedin.com/company/mlinpl/)
