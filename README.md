@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/06/25 | [MEETUP #12](https://github.com/wait-wro/meetups/blob/main/meetups/012Meetup.md)
+
+### 1. "Nowe Technologie i opowieść o Bogu"
+### 2. "Deus Ex Machina Rebooted: sztuczna inteligencja, neurotechnologia i wolność myśli"
+
+#
 ## 🗓️  2025/05/27 | [MEETUP #11](https://github.com/wait-wro/meetups/blob/main/meetups/011Meetup.md)
 
 ### 1. "Making AI Understandable: An Introduction to Explainable AI and Counterfactuals"
