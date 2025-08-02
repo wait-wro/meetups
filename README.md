@@ -5,6 +5,13 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/07/29 | [MEETUP #13](https://github.com/wait-wro/meetups/blob/main/meetups/013Meetup.md)
+
+### 1. "Od AI do ER, ale bez ofiar: Jak uczymy roboty chirurgii, nie rozlewając krwi"
+### 2. "NVIDIA GTC Paris – nowości sprzętowe i przyszłość według Jensena (relacja) 2025"
+### 3. "Europejska AI w medycynie: przegląd rozwiązań i startupów zmieniających oblicze opieki zdrowotnej"
+
+#
 ## 🗓️  2025/06/25 | [MEETUP #12](https://github.com/wait-wro/meetups/blob/main/meetups/012Meetup.md)
 
 ### 1. "Nowe Technologie i opowieść o Bogu"
