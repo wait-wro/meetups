@@ -1,4 +1,4 @@
-# 🗓️ 2025/08/20 | WAIT AI MEETUP #13
+# 🗓️ 2025/08/20 | WAIT AI MEETUP #14
 
 ## "Agentic reasoning models in oncology – from research to clinical impact" & "Underneath: Basic building blocks for creating your own AI"
 
@@ -64,7 +64,6 @@ Filip is a Senior Software Engineer with over 8 years of hands-on experience bui
 ## 📚 Materials
 ["Agentic reasoning models in oncology – from research to clinical impact"](https://drive.google.com/file/d/16vTcFZ6hSvsqB3E0iZOXlMBFu7cA-Ve5/view?usp=sharing)<br>
 ["Underneath: Basic building blocks for creating your own AI"](https://drive.google.com/file/d/170vV8DIPXoHxW8qsCSChDUpyb-Y56hI_/view?usp=sharing)<br>
-
 
 ---
 
