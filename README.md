@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/08/20 | [MEETUP #14](https://github.com/wait-wro/meetups/blob/main/meetups/014Meetup.md)
+
+### 1. "Agentic reasoning models in oncology – from research to clinical impact"
+### 2. "Underneath: Basic building blocks for creating your own AI"
+
+#
 ## 🗓️  2025/07/29 | [MEETUP #13](https://github.com/wait-wro/meetups/blob/main/meetups/013Meetup.md)
 
 ### 1. "Od AI do ER, ale bez ofiar: Jak uczymy roboty chirurgii, nie rozlewając krwi"
