@@ -5,6 +5,13 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/09/02 | [MEETUP #15](https://github.com/wait-wro/meetups/blob/main/meetups/015Meetup.md)
+
+### 1. "Od prognozy do działania – uczenie maszynowe w optymalizacji i kontroli procesów"
+### 2. "River AI Agent: Monitorowanie i predykcja ryzyka powodzi używając ekosystemu Databricks"
+### 3. "Woda i ląd oczami satelity - wykorzystanie nowoczesnych algorytmów i AI do obserwacji naturalnych i antropogenicznych procesów na powierzchni Ziemi"
+
+#
 ## 🗓️  2025/08/20 | [MEETUP #14](https://github.com/wait-wro/meetups/blob/main/meetups/014Meetup.md)
 
 ### 1. "Agentic reasoning models in oncology – from research to clinical impact"
