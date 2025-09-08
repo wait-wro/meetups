@@ -55,7 +55,7 @@ Pasjonat automatyzacji oraz tworzenia wydajnych, skalowalnych ekosystemów danyc
 ---
 
 ## 📸 Zdjęcia
-[Kliknij tutaj, aby zobaczyć zdjęcia](https://drive.google.com/drive/folders/14_I7-h6tCFMUHgDsMfiQQtra_1AbbnCD?usp=drive_link)
+[Kliknij tutaj, aby zobaczyć zdjęcia](https://photos.app.goo.gl/Z4mHHXE2Ln5eszPm8)
 
 ---
 
