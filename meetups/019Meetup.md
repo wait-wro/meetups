@@ -58,7 +58,7 @@ Patryk jest Research Managerem w MATS – amerykańskiej organizacji non-profit 
 ---
 
 ## 📚 Materiały
-["Moc obliczeniowa w AI - technika i geopolityka"](https://docs.google.com/presentation/d/1BAkRermVMqYofdWwpdUkwOd8AJIrLB55PQTNUbL9vbQ/edit?usp=sharing)<br>
+["Moc obliczeniowa w AI - technika i geopolityka"](https://drive.google.com/file/d/1Tg0tdyoAmIAuSTj2ADKZbC7f0P9uokvn/view?usp=sharing)<br>
 
 ---
 
