@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/03/24 | [MEETUP #19](https://github.com/wait-wro/meetups/blob/main/meetups/019Meetup.md)
+
+### 1. "Moc obliczeniowa w AI - technika i geopolityka"
+### 2. "Wprowadzenie do AI Safety."
+
+#
 ## 🗓️  2026/01/20 | [MEETUP #18](https://github.com/wait-wro/meetups/blob/main/meetups/018Meetup.md)
 
 ### 1. "LLM-as-a-Judge? Dlaczego modele językowe oblewają egzamin na sędziego KIO?"
