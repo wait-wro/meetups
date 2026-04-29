@@ -1,4 +1,4 @@
-# 🗓️ 2025/11/25 | WAIT AI MEETUP #17
+# 🗓️ 2026/03/24 | WAIT AI MEETUP #19
 
 ##  "Moc obliczeniowa w AI - technika i geopolityka" &  "Wprowadzenie do AI Safety."
 
