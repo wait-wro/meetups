@@ -24,7 +24,7 @@ Podczas dwudziestego meetupu Artur Suchwalko, PhD i Vladimir Alekseichenko rozpr
 
 ## 🗂️ Agenda
 
-18:00 Powitanie<br>
+18:00 - Powitanie<br>
 18:05 - 18.50 Artur Suchwałko, PhD: "Dlaczego machine learning nie działa i gdzie jest problem?"<br>
 18:50 - 19:00 Przerwa networkingowa<br>
 19:00 - 19:45 Vladmir Alekseichenko: "Software 3.0: Od wrappera na LLM do realnej wartości biznesowej."<br>
