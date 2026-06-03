@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
+
+### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
+### 2. "Technologiczna rewolucja w sporcie z miliardami w tle."
+
+#
 ## 🗓️  2026/04/28 | [MEETUP #20](https://github.com/wait-wro/meetups/blob/main/meetups/020Meetup.md)
 
 ### 1. "Dlaczego machine learning nie działa i gdzie jest problem?"
