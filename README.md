@@ -5,6 +5,11 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/07/18 | [MEETUP #99: Tesotwy](https://github.com/wait-wro/meetups/blob/main/meetups/099Meetup.md)
+
+### 1. "T"
+
+#
 ## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
