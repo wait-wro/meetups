@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/10/07 | [MEETUP #16: AI & Environment](https://github.com/wait-wro/meetups/blob/main/meetups/016Meetup.md)
+
+### 1. "Zero-Waste Machine Learning"
+### 2. "Ile może kosztować świat wyścig o Sztuczną Inteligencję?"
+
+#
 ## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
