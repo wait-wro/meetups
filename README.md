@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/01/20 | [MEETUP #18: AI & Law](https://github.com/wait-wro/meetups/blob/main/meetups/018Meetup.md)
+
+### 1. "LLM-as-a-Judge? Dlaczego modele językowe oblewają egzamin na sędziego KIO?"
+### 2. "Czy AI może być bezstronnym mediatorem? Etyka i skuteczność algorytmów w rozwiązywaniu sporów?"
+
+#
 ## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
