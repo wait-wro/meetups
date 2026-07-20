@@ -1,6 +1,8 @@
 CLAUDE.local.md
 .claude/settings.local.json
 .DS_Store
+/templates/
+/summaries/
 *.pbxuser
 *.mode1v3
 *.mode2v3
