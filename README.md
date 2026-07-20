@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2025/11/25 | [MEETUP #17: Quantum Computing](https://github.com/wait-wro/meetups/blob/main/meetups/017Meetup.md)
+
+### 1. "Wprowadzenie do ekosystemu Quantum, oraz co, jak i ile może osiągnąć hobbysta?"
+### 2. "ODRA 5 - nadprzewodzący komputer kwantowy do celów edukacyjnych i badawczych"
+
+#
 ## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
