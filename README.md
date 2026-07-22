@@ -5,87 +5,87 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
-## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
+## 🗓️  2026/05/25 | [WAIT AI MEETUP #21: AI & Sport](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
 ### 2. "Technologiczna rewolucja w sporcie z miliardami w tle."
 
 #
-## 🗓️  2026/04/28 | [MEETUP #20](https://github.com/wait-wro/meetups/blob/main/meetups/020Meetup.md)
+## 🗓️  2026/04/28 | [WAIT AI MEETUP #20: AI Projects & Value Delivery](https://github.com/wait-wro/meetups/blob/main/meetups/020Meetup.md)
 
 ### 1. "Dlaczego machine learning nie działa i gdzie jest problem?"
 ### 2. "Software 3.0: Od wrappera na LLM do realnej wartości biznesowej."
 
 #
-## 🗓️  2026/03/24 | [MEETUP #19](https://github.com/wait-wro/meetups/blob/main/meetups/019Meetup.md)
+## 🗓️  2026/03/24 | [WAIT AI MEETUP #19: AI Safety](https://github.com/wait-wro/meetups/blob/main/meetups/019Meetup.md)
 
 ### 1. "Moc obliczeniowa w AI - technika i geopolityka"
 ### 2. "Wprowadzenie do AI Safety."
 
 #
-## 🗓️  2026/01/20 | [MEETUP #18](https://github.com/wait-wro/meetups/blob/main/meetups/018Meetup.md)
+## 🗓️  2026/01/20 | [WAIT AI MEETUP #18: AI & Law](https://github.com/wait-wro/meetups/blob/main/meetups/018Meetup.md)
 
 ### 1. "LLM-as-a-Judge? Dlaczego modele językowe oblewają egzamin na sędziego KIO?"
 ### 2. "Czy AI może być bezstronnym mediatorem? Etyka i skuteczność algorytmów w rozwiązywaniu sporów?"
 
 #
-## 🗓️  2025/11/25 | [MEETUP #17](https://github.com/wait-wro/meetups/blob/main/meetups/017Meetup.md)
+## 🗓️  2025/11/25 | [WAIT AI MEETUP #17: Quantum Computing](https://github.com/wait-wro/meetups/blob/main/meetups/017Meetup.md)
 
 ### 1. "Wprowadzenie do ekosystemu Quantum, oraz co, jak i ile może osiągnąć hobbysta?"
 ### 2. "ODRA 5 - nadprzewodzący komputer kwantowy do celów edukacyjnych i badawczych"
 
 #
-## 🗓️  2025/10/07 | [MEETUP #16](https://github.com/wait-wro/meetups/blob/main/meetups/016Meetup.md)
+## 🗓️  2025/10/07 | [WAIT AI MEETUP #16: AI & Environment](https://github.com/wait-wro/meetups/blob/main/meetups/016Meetup.md)
 
 ### 1. "Zero-waste Machine Learning"
 ### 2. "Ile może kosztować świat wyścig o Sztuczną Inteligencję?"
 
 #
-## 🗓️  2025/09/02 | [MEETUP #15](https://github.com/wait-wro/meetups/blob/main/meetups/015Meetup.md)
+## 🗓️  2025/09/02 | [WAIT AI MEETUP #15: AI on the Water](https://github.com/wait-wro/meetups/blob/main/meetups/015Meetup.md)
 
 ### 1. "Od prognozy do działania – uczenie maszynowe w optymalizacji i kontroli procesów"
 ### 2. "River AI Agent: Monitorowanie i predykcja ryzyka powodzi używając ekosystemu Databricks"
 ### 3. "Woda i ląd oczami satelity - wykorzystanie nowoczesnych algorytmów i AI do obserwacji naturalnych i antropogenicznych procesów na powierzchni Ziemi"
 
 #
-## 🗓️  2025/08/20 | [MEETUP #14](https://github.com/wait-wro/meetups/blob/main/meetups/014Meetup.md)
+## 🗓️  2025/08/20 | [WAIT AI MEETUP #14: AI & MedTechs](https://github.com/wait-wro/meetups/blob/main/meetups/014Meetup.md)
 
 ### 1. "Agentic reasoning models in oncology – from research to clinical impact"
 ### 2. "Underneath: Basic building blocks for creating your own AI"
 
 #
-## 🗓️  2025/07/29 | [MEETUP #13](https://github.com/wait-wro/meetups/blob/main/meetups/013Meetup.md)
+## 🗓️  2025/07/29 | [WAIT AI MEETUP #13: Healthcare & Robots](https://github.com/wait-wro/meetups/blob/main/meetups/013Meetup.md)
 
 ### 1. "Od AI do ER, ale bez ofiar: Jak uczymy roboty chirurgii, nie rozlewając krwi"
 ### 2. "NVIDIA GTC Paris – nowości sprzętowe i przyszłość według Jensena (relacja) 2025"
 ### 3. "Europejska AI w medycynie: przegląd rozwiązań i startupów zmieniających oblicze opieki zdrowotnej"
 
 #
-## 🗓️  2025/06/25 | [MEETUP #12](https://github.com/wait-wro/meetups/blob/main/meetups/012Meetup.md)
+## 🗓️  2025/06/25 | [WAIT AI MEETUP #12: Religia & Etyka](https://github.com/wait-wro/meetups/blob/main/meetups/012Meetup.md)
 
 ### 1. "Nowe Technologie i opowieść o Bogu"
 ### 2. "Deus Ex Machina Rebooted: sztuczna inteligencja, neurotechnologia i wolność myśli"
 
 #
-## 🗓️  2025/05/27 | [MEETUP #11](https://github.com/wait-wro/meetups/blob/main/meetups/011Meetup.md)
+## 🗓️  2025/05/27 | [WAIT AI MEETUP #11: Explainable AI](https://github.com/wait-wro/meetups/blob/main/meetups/011Meetup.md)
 
 ### 1. "Making AI Understandable: An Introduction to Explainable AI and Counterfactuals"
 ### 2. "Zrozumieć nie znaczy zaufać - nasze zachowania a wyjaśnialność AI"
 
 #
-## 🗓️  2025/04/15 | [MEETUP #10](https://github.com/wait-wro/meetups/blob/main/meetups/010Meetup.md)
+## 🗓️  2025/04/15 | [WAIT AI MEETUP #10: AI & Predictive Maintenance](https://github.com/wait-wro/meetups/blob/main/meetups/010Meetup.md)
 
 ### 1. "Przewidywanie awarii robota czyli predictive maintenance w praktyce"
 ### 2. "Wykorzystanie publicznych zbiorów danych w komercyjnych zastosowaniach predykcyjnego utrzymania ruchu"
 
 #
-## 🗓️  2025/03/25 | [MEETUP #9](https://github.com/wait-wro/meetups/blob/main/meetups/009Meetup.md)
+## 🗓️  2025/03/25 | [WAIT AI MEETUP #9: AI in Fashion](https://github.com/wait-wro/meetups/blob/main/meetups/009Meetup.md)
 
 ### 1. "GenAI w modzie: modele dyfuzyjne dla wirtualnego przymierzania"
 ### 2. "Moda + AI = Automatyzacja, która sprzedaje"
 
 #
-## 🗓️  2025/02/25 | [MEETUP #8](https://github.com/wait-wro/meetups/blob/main/meetups/008Meetup.md)
+## 🗓️  2025/02/25 | [WAIT AI MEETUP #8: AI & Psychology](https://github.com/wait-wro/meetups/blob/main/meetups/008Meetup.md)
 
 ### 1. “Terapeuta z Krzemowej Doliny: jak AI rewolucjonizuje wsparcie psychiczne.”
 ### 2. “Wgląd w głąb. Co można odkrywać z danych z wearables.”
@@ -100,33 +100,33 @@
 ### 6. "Hiperpersonalizacja zgodna z prawem - o czym należy pamiętać?"
 
 #
-## 🗓️  2024/11/26 | [MEETUP #7](https://github.com/wait-wro/meetups/blob/main/meetups/007Meetup.md)
+## 🗓️  2024/11/26 | [WAIT AI MEETUP #7: AI & Cybersecurity](https://github.com/wait-wro/meetups/blob/main/meetups/007Meetup.md)
 ### 1. "Dlaczego hakerzy kochają Twoją aplikację AI?"
 ### 2. "Czy ktoś może wziąć na mnie pożyczkę? - Rola AI w procesie zdalnej, automatycznej weryfikacji tożsamości."
 
 #
-## 🗓️  2024/10/26 | [MEETUP #6](https://github.com/wait-wro/meetups/blob/006Meetup/meetups/006Meetup.md)
+## 🗓️  2024/10/26 | [WAIT AI MEETUP #6](https://github.com/wait-wro/meetups/blob/006Meetup/meetups/006Meetup.md)
 ### 1. "Accuracy 99,9% - dlaczego to porażka a nie sukces? Wpadki we wdrażaniu Machine learningu w Bioinformatyce"
 ### 2. "Zaczyna się od myśli… - pasywne interfejsy mózg komputer"
 
 #
-## 🗓️  2024/09/24 | [MEETUP #5](https://github.com/wait-wro/meetups/blob/005Meetup/meetups/005Meetup.md)
+## 🗓️  2024/09/24 | [WAIT AI MEETUP #5](https://github.com/wait-wro/meetups/blob/005Meetup/meetups/005Meetup.md)
 ### 1. "Function Calling w modelach językowych"
 ### 2. "Aktualne wyzwania związane z zastosowaniem generatywnej sztucznej inteligencji dla danych wizyjnych"
 
 #
-## 🗓️  2024/08/27 | [MEETUP #4](https://github.com/wait-wro/meetups/blob/004Meetup/meetups/004Meetup.md)
+## 🗓️  2024/08/27 | [WAIT AI MEETUP #4](https://github.com/wait-wro/meetups/blob/004Meetup/meetups/004Meetup.md)
 ### "Rozpoznawanie złóż metali i monitorowanie kopalń z kosmosu - Jak sztuczna inteligencja wspiera procesy biznesowe?"
 
 #
-## 🗓️  2024/07/30 | [MEETUP #3](https://github.com/wait-wro/meetups/blob/003Meetup/meetups/003Meetup.md)
+## 🗓️  2024/07/30 | [WAIT AI MEETUP #3](https://github.com/wait-wro/meetups/blob/003Meetup/meetups/003Meetup.md)
 ### 1. "Funkcja celu kontra biznes"
 ### 2. "Między matematyką a komputerami, teoria zderza się z praktyką"
 
 #
-## 🗓️ 2024/06/25 | [MEETUP #2](https://github.com/wait-wro/meetups/blob/main/meetups/002Meetup.md)
+## 🗓️ 2024/06/25 | [WAIT AI MEETUP #2](https://github.com/wait-wro/meetups/blob/main/meetups/002Meetup.md)
 ### "Bielik od kuchni - jak powstaje polski model językowy w formule open-source/open-science"
 
 #
-## 🗓️ 2024/05/28 | [MEETUP #1](https://github.com/wait-wro/meetups/blob/main/meetups/001Meetup.md)
+## 🗓️ 2024/05/28 | [WAIT AI MEETUP #1](https://github.com/wait-wro/meetups/blob/main/meetups/001Meetup.md)
 ### "Praktyczne wprowadzenie do AI i baz wektorowych"
