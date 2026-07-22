@@ -5,6 +5,11 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2024/05/28 | [MEETUP #1](https://github.com/wait-wro/meetups/blob/main/meetups/001Meetup.md)
+
+### 1. "AI-first databases, vector representations and local LLMs"
+
+#
 ## 🗓️  2026/05/25 | [MEETUP #21](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
