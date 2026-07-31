@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/07/28 | [MEETUP #22: AI & E-Commerce](https://github.com/wait-wro/meetups/blob/main/meetups/022Meetup.md)
+
+### 1. "Od rekomendacji do transakcji: jak agenci AI zmienią handel"
+### 2. "Czy koszyki śnią o elektrycznych zakupach?"
+
+#
 ## 🗓️  2026/05/25 | [WAIT AI MEETUP #21: AI & Sport](https://github.com/wait-wro/meetups/blob/main/meetups/021Meetup.md)
 
 ### 1. "Twój trener 2.0 w pętli: planuj, ćwicz, analizuj, popraw - i jeszcze raz"
