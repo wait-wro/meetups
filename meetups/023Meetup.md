@@ -14,24 +14,14 @@
 
 ## ℹ️ Opis wydarzenia
 
-Event we współpracy z OVHcloud.
-Pierwszy Prelegent: Startup na infrastrukturze OVHcloud
-Drugi Prelegent: Startup KidAid
+Na meetupach o AI w medycynie często mówią inżynierowie (i to inżynierskim językiem). My chcemy wychodzić poza własną "bańkę" - dlatego tym razem przekaz powierzyliśmy tym, którzy są najbliżej pacjenta - lekarzom. **WAŻNE! Takim - którzy współtworzą technologię!**Dlatego tym razem przy mikrofonie stanęli
+Oni — specjalistka pediatrii i chorób zakaźnych oraz specjalista chirurgii dziecięcej. 
 
-Osoby do kontaktu UMW: 
-Jakub Sójka: jakub.sojka@365.umw.edu.pl
-
-OVH: Lukasz Dębski: lukasz.debski@ovhcloud.com
-
-📍 **Biblioteka UMW, Karola Marcinkowskiego 2-6**
+📍 **Centrum Naukowej Informacji Medycznej, Uniwersytet Medyczny we Wrocławiu, Karola Marcinkowskiego 2-6**
 
 ---
 
-## 🗂️ Agenda
 
-<!-- TODO: agenda (godziny) -->
-
----
 
 ## 👤 Prelegenci
 
@@ -57,4 +47,7 @@ Dr n. med. Mateusz Palczewski jest lekarzem, specjalistą chirurgii dziecięcej,
 ---
 
 ## 🤝 Partnerzy
-<!-- TODO: partnerzy -->
+
+[OVHcloud](https://www.ovhcloud.com/pl/)
+[Centrum Transferu Technologii UMW](https://ctt.umw.edu.pl)
+
