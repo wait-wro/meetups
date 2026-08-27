@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/08/25 | [MEETUP #23: AI & MedTechs](https://github.com/wait-wro/meetups/blob/main/meetups/023Meetup.md)
+
+### 1. "Can AI See What I See? Kid AID"
+### 2. "Landing page w C++"
+
+#
 ## 🗓️  2026/07/28 | [MEETUP #22: AI & E-Commerce](https://github.com/wait-wro/meetups/blob/main/meetups/022Meetup.md)
 
 ### 1. "Od rekomendacji do transakcji: jak agenci AI zmienią handel"
