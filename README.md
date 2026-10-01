@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/09/29 | [MEETUP #24: AI & Security](https://github.com/wait-wro/meetups/blob/main/meetups/024Meetup.md)
+
+### 1. "Podwójny agent - wróg zawsze był blisko"
+### 2. "Jak skutecznie uczyć zapominania, czyli co to jest Machine Unlearning?"
+
+#
 ## 🗓️  2026/08/25 | [MEETUP #23: AI & MedTechs](https://github.com/wait-wro/meetups/blob/main/meetups/023Meetup.md)
 
 ### 1. "Can AI See What I See? Kid AID"
