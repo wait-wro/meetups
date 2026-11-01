@@ -14,7 +14,9 @@
 
 ## ℹ️ Opis wydarzenia
 
-<!-- TODO: opis wydarzenia -->
+W tym miesiącu temat, który dotyczy niemal każdego czyli AI w rekrutacji w Techu/IT. No bo kto nie był lub nie będzie rekrutowany?
+
+Nasi stali bywalcy już wiedzą, że miejsce staramy się dobrać właściwie do tematu, więc Ekonomiczny w temacie HR to właściwy wybór:)
 
 📍 **Uniwersytet Ekonomiczny we Wrocławiu**
 
@@ -22,7 +24,13 @@
 
 ## 🗂️ Agenda
 
-<!-- TODO: agenda (godziny) -->
+18:00 - Powitanie<br>
+18:05 - 18:15 Słowo od Partnera<br>
+18:15 - 19:00 Krystian Kozieł: "Next-Gen Tech Screening"<br>
+19:00 - 19:15 --------- PRZERWA ------------<br>
+19:15 - 20:00 Bartek Kolasa, : "It’s a match! AI, rekrutacja i czemu to nie jest takie proste"<br>
+20:00 - 20:15 Ankieta Ewaluacyjna i plany WAIT<br>
+20:15 - 21:00 --- PIZZA TIME + Networking ------<br>
 
 ---
 
@@ -42,9 +50,10 @@ Bartek jest z wykształcenia matematykiem i robotykiem, które swoje życie zawo
 ---
 
 ## 📚 Materiały
-<!-- TODO: materiały / prezentacje -->
+["It’s a match! AI, rekrutacja i czemu to nie jest takie proste"](https://bkolasa.github.io/wait-ai-meetup-2026/)
 
 ---
 
 ## 🤝 Partnerzy
-<!-- TODO: partnerzy -->
+[Billennium](https://www.linkedin.com/company/billennium/home/)<br>
+[Koło Naukowe AI4Business](https://www.linkedin.com/company/ko%C5%82o-naukowe-ai4business/posts/)
