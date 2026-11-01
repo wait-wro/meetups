@@ -5,6 +5,12 @@
 ### Repozytorium Wrocław AI Team z archiwum meetupów organizowanych przez WAIT
 
 #
+## 🗓️  2026/10/27 | [MEETUP #25: AI & Recruitment](https://github.com/wait-wro/meetups/blob/main/meetups/025Meetup.md)
+
+### 1. "Next-Gen Tech Screening"
+### 2. "It’s a match! AI, rekrutacja i czemu to nie jest takie proste"
+
+#
 ## 🗓️  2026/09/29 | [MEETUP #24: AI & Security](https://github.com/wait-wro/meetups/blob/main/meetups/024Meetup.md)
 
 ### 1. "Podwójny agent - wróg zawsze był blisko"
